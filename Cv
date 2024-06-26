@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Żaneta Trejderowska</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="cv-container">
+        <div class="header">
+            <img src="twoje-zdjecie.jpg" alt="Zdjęcie Żaneta Trejderowska" class="profile-pic">
+            <h1>Żaneta Trejderowska</h1>
+            <p><strong>Email:</strong> ancia.gk@o2.pl</p>
+        </div>
 
+        <section class="section">
+            <h2>Wykształcenie</h2>
+            <ul>
+                <li>Warszawska Uczelnia Medyczna im. Tadeusza Koźluka - Kosmetologia</li>
+                <li>WSB Merito w Warszawie - Grafika komputerowa</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Doświadczenie zawodowe</h2>
+            <ul>
+                <li>1,5 roku pracy w Przedszkolu Leśnym</li>
+                <li>1,5 roku pracy jako stylistka paznokci</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Umiejętności</h2>
+            <ul>
+                <li>Analityczne myślenie</li>
+                <li>Kreatywność</li>
+                <li>Umiejętność pracy w zespole</li>
+                <li>Obsługa social media</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Zainteresowania</h2>
+            <ul>
+                <li>Kosmetologia</li>
+                <li>Rysunek węglem</li>
+                <li>Instrumentalna muzyka fortepianowa</li>
+            </ul>
+        </section>
+
+        <div class="footer">
+            <p>Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą z dnia 29.08.1997 r. o ochronie danych osobowych, Dz. U. z 2002 r. Nr 101, poz. 926 z późn. zm.).</p>
